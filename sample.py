@@ -1,3 +1,7 @@
+"""
+This module provides functions for basic arithmetic operations.
+"""
+
 def add_two_numbers(first_number, second_number):
     """
     Adds two numbers and returns the result.
