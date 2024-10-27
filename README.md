@@ -1,1 +1,2 @@
-# Code-Rabbit-ExperimentalExperimental
+# Code-Rabbit-Experimental
+- This repository has a github app that basically checks for basic linting checks and posts automatic comments. Advanced features incoming...
